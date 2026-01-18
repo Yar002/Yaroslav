@@ -1,0 +1,61 @@
+html{ background-color: darkgrey;}
+header{
+ background-color: darkgrey;
+ height: 120px; 
+}
+.logo{
+	position: absolute;
+width: 100px;
+margin-top: 10px;
+ margin-left: 10px;
+
+}
+.GameWebsite{
+position: absolute;
+margin-top: 80px;
+ margin-left: 100px;
+font-style: normal;
+  font-family: Century gothic;
+  font-weight: 550;
+  font-size: 2em;
+}
+.nav_bar{
+ margin-top: 35px;
+ height: 80px;
+ float: right;
+  }
+  .nav_bar a{
+  text-decoration: none;
+}
+.nav_bar li{
+   float: left;
+   margin-right: 20px;
+  }
+  .nav_bar ul{
+  z-index: 20;
+  list-style: none;
+  color: white;
+  font-style: normal;
+  font-family: Century gothic;
+  font-weight: 550;
+  font-size: 1em;
+  float: right;
+  }
+  .nav_words{
+  color: black;
+
+}
+.nav_words:hover{
+    
+  color: white;
+}
+.container{
+ text-align: center;
+  background-color: white;
+  border-radius: 40px;
+}
+.best_moments{
+  width: 300px;
+  margin: 10px;
+  border-radius:40px;
+}
